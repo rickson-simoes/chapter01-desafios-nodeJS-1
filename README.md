@@ -2,14 +2,11 @@
 
 [![Package][nodemon-image]][nodemon-url] 
 [![Technology][node-image]][node-url] 
-[![License][license-image]][license-url]
+
 
 
 [nodemon-url]: https://www.npmjs.com/package/nodemon
 [nodemon-image]: https://img.shields.io/badge/Nodemon-green?style=for-the-badge&logo=Nodemon&logoColor=black
-
-[license-url]: https://opensource.org/licenses/MIT
-[license-image]: https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=github
 
 [node-url]: https://nodejs.org/
 [node-image]: https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=Node-dot-js&logoColor=black
