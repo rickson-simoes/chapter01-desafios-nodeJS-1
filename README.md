@@ -22,7 +22,7 @@
 
 ---
 
-##Essa será uma aplicação para criar um usuário e gerenciar as tarefas, manipulando os objetos. (em inglês *todos*). Será permitida a criação de um usuário com `name` e `username`, bem como fazer o CRUD de *todos*:
+# Essa será uma aplicação para criar um usuário e gerenciar as tarefas, manipulando os objetos. (em inglês *todos*). Será permitida a criação de um usuário com `name` e `username`, bem como fazer o CRUD de *todos*:
 
 - Criar um novo *todo*;
 - Listar todos os *todos*;
